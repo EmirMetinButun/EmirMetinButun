@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EmirMetinButun
 - 👀 I’m interested in SoftwareDevelopment!
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning python
+- 
 
 
 <!---
